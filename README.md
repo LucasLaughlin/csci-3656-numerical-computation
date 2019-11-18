@@ -1,4 +1,4 @@
-# csci-3656-numerical-computation
+# CSCI-3656-Numerical-Computation
 Class work from CSCI 3656: Numerical Computation at University of Colorado, Boulder
 
 Fall 2018
